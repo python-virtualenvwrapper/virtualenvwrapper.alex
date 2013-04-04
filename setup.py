@@ -33,12 +33,11 @@ setup(
         'Programming Language :: Python :: 2',
         'Intended Audience :: Developers',
         'Environment :: Console',
-        'Framework :: Django',
     ],
 
     platforms=['Any'],
 
-    provides=['virtualenvwrapper.django',
+    provides=['virtualenvwrapper.alex',
               ],
     requires=['virtualenv',
               'virtualenvwrapper (>=2.9)',
