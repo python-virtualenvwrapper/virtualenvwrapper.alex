@@ -1,0 +1,32 @@
+==========================
+ virtualenvwrapper.alex
+==========================
+
+`virtualenvwrapper.alex`_ installs aliases for typos related to common
+virtualenvwrapper commands. Really. It exists because `Alex Gaynor`_
+asked nicely.
+
+.. _virtualenvwrapper.alex: https://bitbucket.org/dhellmann/virtualenvwrapper.alex
+.. _Alex Gaynor: https://twitter.com/alex_gaynor
+
+  @doughellmann Anything I could do to convince you to add `wokr` as
+  an alias for `workon`?
+
+How could I say no?
+
+Installation
+============
+
+::
+
+  $ pip install virtualenvwrapper.alex
+
+You will need to start a new shell or reload ``virtualenvwrapper.sh``
+to see the new aliases.
+
+Usage
+=====
+
+::
+
+  $ wokr my_project

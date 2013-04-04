@@ -1,0 +1,2 @@
+include setup.py
+include distribute_setup.py
