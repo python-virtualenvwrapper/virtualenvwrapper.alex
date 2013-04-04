@@ -1,9 +1,9 @@
-===========================
- virtualenvwrapper.alex 0.
-===========================
+===================================================
+ virtualenvwrapper.alex -- for the typo challenged
+===================================================
 
 What is virtualenvwrapper.alex?
-=================================
+===============================
 
 `virtualenvwrapper.alex`_ installs aliases for typos related to common
 virtualenvwrapper commands. Really. It exists because `Alex Gaynor`_
