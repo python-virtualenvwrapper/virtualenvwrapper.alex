@@ -16,4 +16,8 @@ def initialize_source(args):
     """
     return """
 alias wokr=workon
+alias kmvirtualenv=mkvirtualenv
+alias mrvirtualenv=rmvirtualenv
+alias slvirtualenv=lsvirtualenv
+alias pcvirtualenv=cpvirtualenv
 """
